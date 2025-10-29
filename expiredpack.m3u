@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tv1" tvg-name="INFO" tvg-logo="https://raw.githubusercontent.com/aura4k/icon/refs/heads/main/trademark.png" group-title="STATUS ID",INFO
+billed-msg="WHATSAPP / TELEGRAM = 011 3109 2605-ADMIN"
+#EXTINF:-1 tvg-id="tv1" group-logo="https://raw.githubusercontent.com/aura4k/icon/refs/heads/main/trademark.png" tvg-name="INFO" group-title="ID STATUS" tvg-logo="https://raw.githubusercontent.com/aura4k/icon/refs/heads/main/trademark.png" group-title="STATUS ID",INFO
 https://aura4k.short.gy/expired.ts
 
 
